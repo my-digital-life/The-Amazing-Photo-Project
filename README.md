@@ -1,5 +1,5 @@
 # The-Amazing-Photo-Project
-trying to use immich to arrange and clean up like 20 or 30,000, pictures that I have managed to collect over the years, this is the beginning of that journey, not sure where it can lead. But if you got something against AI, probably in the wrong spot, I'm using copilot for this    
-
-This is taking longer than expected    
-Friday, December 19, 2025 4:06:30 AM
+Trying to use Immich to sort out and clean up the 20–30k photos I’ve collected over the years. This is the start of that whole adventure. No idea where it’ll end up, but it feels like the right time to dive in.
+If you’re not into AI, this probably isn’t your place — I’m using Copilot to help me work through the details and keep things organized.
+# This is taking longer than expected
+Friday, December 19, 2025 — 4:06 AM
