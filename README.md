@@ -1,8 +1,8 @@
-The Amazing Photo Project
-Trying to use Immich to sort out and clean up the 20–30k photos I’ve collected over the years. This is the start of that whole adventure. No idea where it’ll end up, but it feels like the right time to dive in.
-I’m using Copilot along the way — mostly to help me plan things out, write scripts, and keep the technical side from turning into a mess. If you’re not into AI, this probably isn’t your place.
-
-What I’m Building
+# The Amazing Photo Project
+Trying to use Immich to sort out and clean up the 20–30k photos I’ve collected over the years. This is the start of that whole adventure. No idea where it’ll end up, but it feels like the right time to dive in.  
+I’m using Copilot along the way — mostly to help me plan things out, write scripts, and keep the technical side from turning into a mess. If you’re not into AI, this probably isn’t your place.    
+    
+What I’m Building    
 A clean, structured photo system using Immich, with:
 - A dedicated RAW library on F:\immich\raw
 - A backup of those RAWs on E:\immich\raw_backup
