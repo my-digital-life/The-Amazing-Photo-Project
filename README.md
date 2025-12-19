@@ -33,5 +33,6 @@ D:\immich\work
     
 # Why This Repo Exists    
 Mostly to track the scripts, configs, and notes as I go.    
+    
 This project is taking longer than expected, but that’s part of the process.    
 Friday, December 19, 2025 — 4:06 AM    
