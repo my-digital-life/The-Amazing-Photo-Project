@@ -19,21 +19,20 @@ Immich runs in Docker on Windows, and I wanted it:
 The Docker config lives in:    
 C:\immich\    
 
-
-This folder holds:
-- docker-compose.yml
-- .env
-All the actual photo data lives on F:, E:, and D:.
-
-Folder Structure
-F:\immich\raw
-Main photo library (RAWs, incoming, year folders)
-E:\immich\raw_backup
-Backup of the RAWs
-D:\immich\work
-Exports, edits, AI stuff, temp files, and the Immich database
-
-Why This Repo Exists
-Mostly to track the scripts, configs, and notes as I go.
-This project is taking longer than expected, but that’s part of the process.
-Friday, December 19, 2025 — 4:06 AM
+This folder holds:    
+- docker-compose.yml    
+- .env    
+All the actual photo data lives on F:, E:, and D:.    
+     
+Folder Structure    
+F:\immich\raw        
+Main photo library (RAWs, incoming, year folders)    
+E:\immich\raw_backup    
+Backup of the RAWs    
+D:\immich\work    
+Exports, edits, AI stuff, temp files, and the Immich database    
+    
+Why This Repo Exists    
+Mostly to track the scripts, configs, and notes as I go.    
+This project is taking longer than expected, but that’s part of the process.    
+Friday, December 19, 2025 — 4:06 AM    
